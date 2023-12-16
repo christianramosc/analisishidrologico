@@ -9,8 +9,10 @@ También se puede encontrar el archivo _.xlsx_ con la _data_ de origen llamada _
 
 > [!IMPORTANT]
 > Es importante señalar que la información con la que se trabaja tiene la siguiente estructura;
-> 
-> Mes|Dia|Año|Datos
+
+> | Mes | Día | Año | Datos |
+> |-----|-----|-----|-------|
+> 1|1|1998|6
 >
 > Si se siguen teniendo dudas, favor de consultar el archivo anteriormente mencionado "_Estaciones24h_".
 
