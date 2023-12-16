@@ -22,4 +22,4 @@ También se puede encontrar el archivo _.xlsx_ con la _data_ de origen llamada _
 Por último, *SE PUEDE UTILIZAR PARA CUALQUIER TIPO DE ESTACIÓN CLIMATOLÓGICA*, dentro de los archivos subidos encontrarás un _.pdf_ en el cuál se genera un reporte en el que se describen las fórmulas matemáticas utilizadas,
 los modelos, y así mismo el proceso completo de análisis.
 
-**Siéntete libre de modificar o mejorar el programa**, y si es posible, comentame qué es lo que puedo hacer para perfeccionarlo.
+**Siéntete libre de modificar o mejorar el código**, y si es posible, comentame qué es lo que puedo hacer para perfeccionarlo.
